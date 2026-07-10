@@ -43,17 +43,6 @@ It records coarse module classes such as mass, power, cooling, external geometry
 
 This repository is public and intentionally non-sensitive. It should stay focused on CAD configuration literacy, modular interface discipline, and simulation-input preparation.
 
-Out of scope:
-
-- weapons
-- tactics
-- evasion
-- stealth
-- defense simulation
-- controlled or sensitive data
-- operational system design
-- flight, CFD, durability, or load claims
-
 ## Repository map
 
 ```text
