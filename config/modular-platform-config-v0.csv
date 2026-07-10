@@ -1,0 +1,5 @@
+platform_variant,module_name,module_role,mass_class,power_class,cooling_class,external_geometry_class,lighting_capability,sim_role,notes
+base_v0,blank_module_v0,blank,low,none,none,flush,none,reserve,baseline empty slot
+base_v0,sensor_placeholder_v0,sensor,medium,medium,low,pod,status_visible,active_payload,geometry placeholder only
+base_v0,relay_placeholder_v0,relay,medium,high,medium,pod,formation_visible,relay,communications role placeholder
+base_v0,lighting_placeholder_v0,visibility,low,low,none,flush,arrival_announcement,geometry,lighting semantics placeholder
